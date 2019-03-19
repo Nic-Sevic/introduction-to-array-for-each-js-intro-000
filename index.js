@@ -5,4 +5,3 @@ function doToElementsInArray(array, callback) {
 function changeCompletely(array, callback) {
   array.forEach(callback)
 }
-
